@@ -1,5 +1,6 @@
 # Instrumento de Evaluacion IoT
-# Garay Garcia Cesar Enrique 
+# Garay Garcia Cesar Enrique
+# Zahir Andrés Rodríguez Mora
 ## Nombre del Personaje 
 Cascanueces
 ## Creador
