@@ -78,7 +78,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 ## **Videos del Funcionamiento**
 
-[Videos en Google Drive](https://drive.google.com/drive/folders/1bB0ah-XkBKzjL5KlCOgBnNVd5imOTrXh?usp=sharing)
+[Videos en Google Drive](https://drive.google.com/drive/folders/1T4kBjcnDoCBQDtGR6Evwp7F1wcIDYl1Y)
 
 ---
 
