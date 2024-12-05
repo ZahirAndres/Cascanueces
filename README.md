@@ -113,7 +113,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ## **Imagen de la Captura de Pantalla de los Exámenes JavaScriptcde Zahir Andrés Rodríguez Mora**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/33ff7087-e9d4-4bd5-9a97-9667fa8f386e" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/33ff7087-e9d4-4bd5-9a97-9667fa8f386e" width="1000" height="auto" />
 </div>
 
 
