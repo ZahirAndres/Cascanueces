@@ -97,7 +97,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 ---
 
-## **Imagen de la Captura de Pantalla de los Exámenes Cisco C**
+## **Imagen de la Captura de Pantalla de los Exámenes JavaScript de Cesar Enrique Garay Garcia**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/fa20304b-317d-4ed2-9806-bb29826f481f" width="200" height="auto" />
@@ -107,3 +107,15 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
   <img src="https://github.com/user-attachments/assets/530715f3-925d-42b7-aec3-16a2abd91e7e" width="200" height="auto" />
   <img src="https://github.com/user-attachments/assets/84bbe28b-8a0b-4aed-8955-1e56603826cf" width="200" height="auto" />
 </div>
+
+---
+
+## **Imagen de la Captura de Pantalla de los Exámenes JavaScriptcde Zahir Andrés Rodríguez Mora**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/33ff7087-e9d4-4bd5-9a97-9667fa8f386e" width="200" height="auto" />
+</div>
+
+
+
+
