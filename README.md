@@ -96,7 +96,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 ---
 
-## **Captura de Pantalla de los Exámenes Cisco C**
+## **Captura de Pantalla de los Exámenes Cisco C - Cesar Garay**
 
 ![Captura 1](https://github.com/user-attachments/assets/fa20304b-317d-4ed2-9806-bb29826f481f)  
 ![Captura 2](https://github.com/user-attachments/assets/58b78486-29d6-4554-b370-83ddc6d2031c)  
@@ -106,4 +106,11 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 ![Captura 6](https://github.com/user-attachments/assets/84bbe28b-8a0b-4aed-8955-1e56603826cf)
 
 ---
+
+## **Captura de Pantalla de los Exámenes Cisco C - Zahir Rodríguez**
+
+![captura 1](https://github.com/user-attachments/assets/e5d67182-1081-4309-b160-0c28fbf3d131)
+
+---
+
 
